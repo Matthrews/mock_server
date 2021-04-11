@@ -1,0 +1,19 @@
+{
+  "name": "mock_server",
+  "version": "1.0.0",
+  "description": "My JSON Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Matthew",
+    "email": "Matthrews@outlook.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3",
+    "nodemon": "^2.0.7"
+  }
+}
